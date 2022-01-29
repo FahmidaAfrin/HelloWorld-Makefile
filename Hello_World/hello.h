@@ -1,0 +1,2 @@
+void HelloFunc(void);
+
